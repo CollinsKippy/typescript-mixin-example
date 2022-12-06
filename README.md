@@ -1,3 +1,3 @@
 # typescript-mixin-example
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/p5udqz)
+This is an exploration of typescript mixin. Contents are in the index.ts file.
