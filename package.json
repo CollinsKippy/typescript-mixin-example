@@ -1,0 +1,8 @@
+{
+  "name": "e94iee--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "typescript": "^4.9.3"
+  }
+}
